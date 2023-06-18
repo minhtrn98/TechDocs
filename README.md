@@ -7,6 +7,9 @@ dotnet new <Project_Type> -o <Project_Name>
 dotnet sln add <Project_Name>
 ```
 
+[Reference1](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-sln)\
+[Reference2](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio-code)
+
 ---
 
 # Docker
